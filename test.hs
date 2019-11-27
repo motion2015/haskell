@@ -1,1 +1,2 @@
-console.log(2+2)
+string H = "hello";
+return new JavaScriptSerializer().Serialize(H);
